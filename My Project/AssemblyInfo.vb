@@ -8,8 +8,8 @@ Imports System.Runtime.InteropServices
 
 ' アセンブリ属性の値を確認します
 
-<Assembly: AssemblyTitle("無線補助ソフトウェア")>
-<Assembly: AssemblyDescription("")>
+<Assembly: AssemblyTitle("RadioReceiverAssistant")>
+<Assembly: AssemblyDescription("局名の一部や、コールサイン、ユーザー指定の識別IDなどで検索可能。周波数からの逆検索機能付き。")>
 <Assembly: AssemblyCompany("")>
 <Assembly: AssemblyProduct("")>
 <Assembly: AssemblyCopyright("Copyright ©  2017 mk7087")>
